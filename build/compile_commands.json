@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/komiz/Desktop/aea/build",
+  "command": "/usr/bin/g++ -g -std=gnu++11 -o CMakeFiles/OpenGLProject.dir/main.cpp.o -c /home/komiz/Desktop/aea/main.cpp",
+  "file": "/home/komiz/Desktop/aea/main.cpp"
+}
+]

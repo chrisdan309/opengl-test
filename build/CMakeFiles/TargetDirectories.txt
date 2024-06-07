@@ -1,0 +1,3 @@
+/home/komiz/Desktop/aea/build/CMakeFiles/OpenGLProject.dir
+/home/komiz/Desktop/aea/build/CMakeFiles/edit_cache.dir
+/home/komiz/Desktop/aea/build/CMakeFiles/rebuild_cache.dir
